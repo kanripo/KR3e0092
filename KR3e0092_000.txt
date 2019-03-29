@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 醫門法律
-#+DATE: 2019-03-29 21:07:28.266662
+#+DATE: 2019-03-29 21:07:28.603514
 #+PROPERTY: ID KR3e0092
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR3e0092_WYG_000-1a>¶
 　　欽定四庫全書　　　　　子部五¶

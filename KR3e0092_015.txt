@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 醫門法律
-#+DATE: 2019-03-29 21:07:28.551673
+#+DATE: 2019-03-29 21:07:28.806313
 #+PROPERTY: ID KR3e0092
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 15
 <pb:KR3e0092_WYG_015-1a>¶
 　　欽定四庫全書¶
@@ -285,7 +285,7 @@
 ¶
 　　直推岵翁公祖病後再悞貽患¶
 ¶
-　　岵翁公祖&KR0359;知醫理投劑咸中肯綮所以長年久世然¶
+　　岵翁公祖㴱知醫理投劑咸中肯綮所以長年久世然¶
 苦耳鳴不樂對客其左右侍從誰能究心醫藥之事前¶
 病獲安競以為人參之力而䣃患者反得居功謂其意¶
 中原欲用參但不敢專主姑進不肖商確以示詳慎耳¶

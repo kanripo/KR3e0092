@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 醫門法律
-#+DATE: 2019-03-29 21:07:28.541368
+#+DATE: 2019-03-29 21:07:28.796079
 #+PROPERTY: ID KR3e0092
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 14
 <pb:KR3e0092_WYG_014-1a>¶
 　　欽定四庫全書¶
@@ -387,7 +387,7 @@
 露無餘肛門火烙陽氣下陷久而不升遂成臋癰竟¶
 付外科治瘳吁嗟先生獨何不身事視國也哉¶
 ¶
-　　胡卣臣曰萍槎司馬𫾻厯中外清剛曉練今之顯¶
+　　胡卣臣曰萍槎司馬敡厯中外清剛曉練今之顯¶
 允方叔也從津門歸¶
 ¶
 　　朝命再下倚任方殷司馬淹畱抱疴竟至不起使用嘉¶
